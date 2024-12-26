@@ -11,7 +11,9 @@ Branch: B
 Also, cover all the conditional mnemonics from ARM LRM, as shown in the snapshot below.
 ![pasted image 0](https://github.com/user-attachments/assets/c8701673-46b7-4105-9582-87e266d66d41)
 
-# Micro Architecture top view (rough) :
+# Micro Architecture of cpu :
+![Screenshot (394)](https://github.com/user-attachments/assets/f639be4d-afae-415d-9cbf-fe22234a97b9)
+
 
 # Testing:
 To test a CPU working we need to have an extensive code which can examine each and every instruction covered in this CPU design , and then if that code is being executed by our CPU with the required final result we can say that CPU passed the initial test
