@@ -17,6 +17,9 @@ Also, cover all the conditional mnemonics from ARM LRM, as shown in the snapshot
 # How verilog modules are being integrated :
 
 
+![Screenshot (395)](https://github.com/user-attachments/assets/240bbfa5-759b-4352-8d52-62cee26fc62d)
+
+
 # Testing:
 To test a CPU working we need to have an extensive code which can examine each and every instruction covered in this CPU design , and then if that code is being executed by our CPU with the required final result we can say that CPU passed the initial test
 
