@@ -8,5 +8,6 @@ Data Processing: ADD SUB AND ORR
 Memory Operation: STR and LDR
 
 Branch: B
-
 Also, cover all the conditional mnemonics from ARM LRM, as shown in the snapshot below.
+# Micro Architecture top view (rough) :
+
