@@ -11,3 +11,9 @@ Branch: B
 Also, cover all the conditional mnemonics from ARM LRM, as shown in the snapshot below.
 # Micro Architecture top view (rough) :
 
+# Testing:
+To test a CPU working we need to have an extensive code which can examine each and every instruction covered in this CPU design , and then if that code is being executed by our CPU with the required final result we can say that CPU passed the initial test
+
+To test our design, we have taken reference test Code from Digital Design and Computer Architecture ARM edition by Harris.
+
+# Test Code :
