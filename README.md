@@ -17,3 +17,4 @@ To test a CPU working we need to have an extensive code which can examine each a
 To test our design, we have taken reference test Code from Digital Design and Computer Architecture ARM edition by Harris.
 
 # Test Code :
+![389281564-6597a10c-7191-4b00-bbf0-d3e907aeeedd](https://github.com/user-attachments/assets/0031ee2f-001b-4609-a25a-e27fa6eda8a7)
