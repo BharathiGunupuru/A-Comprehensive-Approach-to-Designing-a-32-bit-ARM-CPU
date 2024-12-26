@@ -9,6 +9,8 @@ Memory Operation: STR and LDR
 
 Branch: B
 Also, cover all the conditional mnemonics from ARM LRM, as shown in the snapshot below.
+![pasted image 0](https://github.com/user-attachments/assets/c8701673-46b7-4105-9582-87e266d66d41)
+
 # Micro Architecture top view (rough) :
 
 # Testing:
