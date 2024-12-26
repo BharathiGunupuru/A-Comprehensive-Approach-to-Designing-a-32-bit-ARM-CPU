@@ -14,6 +14,8 @@ Also, cover all the conditional mnemonics from ARM LRM, as shown in the snapshot
 # Micro Architecture of cpu :
 ![Screenshot (394)](https://github.com/user-attachments/assets/f639be4d-afae-415d-9cbf-fe22234a97b9)
 
+# How verilog modules are being integrated :
+
 
 # Testing:
 To test a CPU working we need to have an extensive code which can examine each and every instruction covered in this CPU design , and then if that code is being executed by our CPU with the required final result we can say that CPU passed the initial test
